@@ -140,6 +140,6 @@ pip install pandas numpy matplotlib seaborn jupyter
 
 ## 📞 Contact Information
 
-**Developer:** Abdelrahman Deyaa Fouad
-**Email:** [Abdelrahman.Deyaa@hotmail.com](mailto:Abdelrahman.Deyaa@hotmail.com)
-**Project Year:** 2025
+* **Developer:** Abdelrahman Deyaa Fouad
+* **Email:** [Abdelrahman.Deyaa@hotmail.com](mailto:Abdelrahman.Deyaa@hotmail.com)
+* **Project Year:** 2025
