@@ -18,11 +18,10 @@ To improve e-commerce performance by analyzing:
 
 | Tool         | Purpose                                  | Usage in Project                                |
 | ------------ | ---------------------------------------- | ----------------------------------------------- |
-| **Power BI** | Interactive Dashboards                   | 4 interactive report pages with theme switching |
 | **SQL**      | Data Extraction & Initial Analysis       | Data exploration, cleaning, missing values      |
 | **Python**   | Advanced Cleaning & Statistical Analysis | Pandas, Matplotlib, Seaborn                     |
 | **Excel**    | Quick Analysis & Pivot Tables            | RFM Analysis & fast analytics                   |
-| **Power BI** | Advanced Visualizations                  | Geographic & advanced visual analysis           |
+| **Power BI** | Interactive Dashboards                   | 5 interactive report pages with theme switching |
 
 ---
 
