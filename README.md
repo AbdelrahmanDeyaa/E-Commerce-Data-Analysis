@@ -47,8 +47,7 @@ To improve e-commerce performance by analyzing:
 
 ### 4️⃣ Visualization (Power BI)
 
-* 4 Interactive dashboard pages
-* Light/Dark Theme Switch
+* 5 Interactive dashboard pages
 * Fully interactive reports
 
 ---
@@ -58,7 +57,6 @@ To improve e-commerce performance by analyzing:
 * Clear seasonality in sales performance
 * High-value customers contribute a major portion of revenue
 * Product performance varies strongly by region
-* Strong 80/20 (Pareto) behavior detected
 
 ---
 
